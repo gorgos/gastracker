@@ -1,6 +1,6 @@
 {
   "name": "gastracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Track the gas costs of your functions over time.",
   "main": "index.js",
   "scripts": {
