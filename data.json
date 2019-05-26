@@ -1,0 +1,542 @@
+{
+    "1546841929572": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 76204,
+                "median": 183658,
+                "min": 8880,
+                "max": 629001
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 490061,
+                "median": 476821,
+                "min": 112196,
+                "max": 1270202
+            }
+        }
+    },
+    "1519653005073": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 50903,
+                "median": 278616,
+                "min": 8415,
+                "max": 630392
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 334535,
+                "median": 816682,
+                "min": 69906,
+                "max": 1076648
+            }
+        }
+    },
+    "1551255389207": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 73368,
+                "median": 296875,
+                "min": 1595,
+                "max": 612669
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 580942,
+                "median": 631610,
+                "min": 109455,
+                "max": 1123661
+            }
+        }
+    },
+    "1554934845578": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 90138,
+                "median": 212665,
+                "min": 23799,
+                "max": 668872
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 375856,
+                "median": 710212,
+                "min": 108585,
+                "max": 1231149
+            }
+        }
+    },
+    "1542962153838": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 54078,
+                "median": 293761,
+                "min": 5946,
+                "max": 638687
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 400078,
+                "median": 642374,
+                "min": 42250,
+                "max": 1143682
+            }
+        }
+    },
+    "1546464059306": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 60154,
+                "median": 246710,
+                "min": 12911,
+                "max": 691168
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 373089,
+                "median": 282888,
+                "min": 66504,
+                "max": 1110612
+            }
+        }
+    },
+    "1529769558027": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 54539,
+                "median": 259041,
+                "min": 22629,
+                "max": 746849
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 452824,
+                "median": 737238,
+                "min": 167868,
+                "max": 1139711
+            }
+        }
+    },
+    "1520014927692": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 47147,
+                "median": 291982,
+                "min": 25207,
+                "max": 555526
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 350989,
+                "median": 624276,
+                "min": 1769,
+                "max": 1047250
+            }
+        }
+    },
+    "1533015638622": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 54057,
+                "median": 253764,
+                "min": 5253,
+                "max": 698861
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 283924,
+                "median": 626729,
+                "min": 121502,
+                "max": 1199577
+            }
+        }
+    },
+    "1545265829752": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 40718,
+                "median": 124229,
+                "min": 10642,
+                "max": 649665
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 672543,
+                "median": 698888,
+                "min": 121046,
+                "max": 1122610
+            }
+        }
+    },
+    "1516019167258": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 48436,
+                "median": 170435,
+                "min": 3337,
+                "max": 555599
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 553743,
+                "median": 825822,
+                "min": 44575,
+                "max": 1083650
+            }
+        }
+    },
+    "1547689113877": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 45643,
+                "median": 233340,
+                "min": 25798,
+                "max": 676009
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 460718,
+                "median": 783996,
+                "min": 93083,
+                "max": 976929
+            }
+        }
+    },
+    "1558812427024": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 52823,
+                "median": 242675,
+                "min": 12266,
+                "max": 712696
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 365632,
+                "median": 419707,
+                "min": 13918,
+                "max": 1141237
+            }
+        }
+    },
+    "1523726963338": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 84095,
+                "median": 313411,
+                "min": 10099,
+                "max": 550623
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 818440,
+                "median": 511457,
+                "min": 53170,
+                "max": 934411
+            }
+        }
+    },
+    "1549007337937": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 54804,
+                "median": 269316,
+                "min": 19584,
+                "max": 652630
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 485302,
+                "median": 612798,
+                "min": 64413,
+                "max": 977798
+            }
+        }
+    },
+    "1521058417210": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 43331,
+                "median": 274399,
+                "min": 16645,
+                "max": 695032
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 605314,
+                "median": 468089,
+                "min": 150597,
+                "max": 1091508
+            }
+        }
+    },
+    "1549756709172": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 65789,
+                "median": 246465,
+                "min": 8415,
+                "max": 593866
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 583199,
+                "median": 292836,
+                "min": 118651,
+                "max": 1212150
+            }
+        }
+    },
+    "1515827220364": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 63734,
+                "median": 223144,
+                "min": 10366,
+                "max": 648261
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 655530,
+                "median": 586317,
+                "min": 122531,
+                "max": 975026
+            }
+        }
+    },
+    "1518538187843": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 102588,
+                "median": 290481,
+                "min": 3253,
+                "max": 742470
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 339285,
+                "median": 329301,
+                "min": 48692,
+                "max": 954207
+            }
+        }
+    },
+    "1553367098927": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 116055,
+                "median": 235362,
+                "min": 4825,
+                "max": 576035
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 506945,
+                "median": 323160,
+                "min": 80031,
+                "max": 1203572
+            }
+        }
+    },
+    "1528728585071": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 45544,
+                "median": 143717,
+                "min": 7502,
+                "max": 694341
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 424901,
+                "median": 538283,
+                "min": 132730,
+                "max": 932025
+            }
+        }
+    },
+    "1543158942288": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 73578,
+                "median": 201663,
+                "min": 11184,
+                "max": 620520
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 444771,
+                "median": 306922,
+                "min": 93821,
+                "max": 1044905
+            }
+        }
+    },
+    "1530643712311": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 52986,
+                "median": 227889,
+                "min": 16535,
+                "max": 737391
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 348859,
+                "median": 458382,
+                "min": 47270,
+                "max": 1265533
+            }
+        }
+    },
+    "1534238311242": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 54104,
+                "median": 250248,
+                "min": 11559,
+                "max": 689487
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 430058,
+                "median": 751493,
+                "min": 60802,
+                "max": 1216038
+            }
+        }
+    },
+    "1515237629333": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 59468,
+                "median": 235040,
+                "min": 4018,
+                "max": 610930
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 559542,
+                "median": 314231,
+                "min": 96959,
+                "max": 1162195
+            }
+        }
+    },
+    "1537512172757": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 41202,
+                "median": 129262,
+                "min": 20897,
+                "max": 568382
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 312027,
+                "median": 799679,
+                "min": 139344,
+                "max": 1084974
+            }
+        }
+    },
+    "1557899671365": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 50399,
+                "median": 130227,
+                "min": 18195,
+                "max": 714715
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 497112,
+                "median": 383937,
+                "min": 16564,
+                "max": 1171156
+            }
+        }
+    },
+    "1533389385382": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 86713,
+                "median": 264314,
+                "min": 12750,
+                "max": 726050
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 713393,
+                "median": 333979,
+                "min": 136129,
+                "max": 1118121
+            }
+        }
+    },
+    "1530730647128": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 115918,
+                "median": 269443,
+                "min": 26366,
+                "max": 598192
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 384127,
+                "median": 590991,
+                "min": 159999,
+                "max": 1206248
+            }
+        }
+    },
+    "1557636704530": {
+        "SimpleToken": {
+            "transferTest": {
+                "mean": 40416,
+                "median": 121638,
+                "min": 11268,
+                "max": 612162
+            }
+        },
+        "Crowdsale": {
+            "buyTokensTest": {
+                "mean": 362599,
+                "median": 308514,
+                "min": 93267,
+                "max": 1021585
+            }
+        }
+    }
+}

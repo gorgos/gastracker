@@ -1,0 +1,42 @@
+{
+  "name": "gastracker",
+  "version": "1.0.0",
+  "description": "Track the gas costs of your functions over time.",
+  "main": "index.js",
+  "scripts": {
+    "print": "node ./bin/printGasHistory.js",
+    "test": "bash ./scripts/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gorgos/gastracker.git"
+  },
+  "keywords": [
+    "solidity",
+    "gas",
+    "truffle",
+    "testing",
+    "tracking"
+  ],
+  "author": "Markus Waas",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "chai": "^4.2.0",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "openzeppelin-solidity": "^2.2.0",
+    "openzeppelin-test-helpers": "^0.4.0",
+    "prettier": "^1.17.1",
+    "truffle": "^5.0.19"
+  },
+  "dependencies": {
+    "asciichart": "^1.5.7",
+    "commander": "^2.20.0",
+    "stats-lite": "^2.2.0"
+  },
+  "bin": {
+    "printGasHistory": "bin/printGasHistory.js"
+  }
+}
